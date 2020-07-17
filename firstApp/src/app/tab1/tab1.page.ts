@@ -15,7 +15,7 @@ export class Tab1Page {
     this.chamarNome()
     this.nome = "Ariana Rodrigues Cursino";
   }
-// https://www.youtube.com/watch?v=aHgb3kTudqY&list=PLxNM4ef1BpxgBAqQsMHhwBH6EmwQOD7Rq&index=8 parei nesse vídeo
+
   chamarNome():void{
     alert('Essa função foi chamada!!!');
   }
